@@ -14,7 +14,7 @@ code
 dataset
 - data description
     - Descriptions of all 81 data features
-    - [Download here](./dataset/data_description.xlsx)
+    - [Or you can download here](./dataset/data_description.xlsx)
 - train
     - train data set provided
 - test
