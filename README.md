@@ -10,7 +10,7 @@ We would like to make observations and take a look at the features that are affe
 
 code
 - Project 2
-    - includes the whole python code in jupyter notebook
+    - includes the whole python code in jupyter notebook   
 dataset
 - data description
     - Descriptions of all 81 data features
